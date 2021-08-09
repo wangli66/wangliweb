@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21af2b"],{be4f:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" 待开发 ")])},u=[],c={data:function(){return{name:"name"}}},r=c,f=r,i=t("2877"),o=Object(i["a"])(f,a,u,!1,null,"74467f89",null);e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d21af2b.00741864.js.map
